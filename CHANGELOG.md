@@ -1,3 +1,6 @@
+<a name="explorer_hang_fix"></a>
+test
+
 <a name="0.16.3"></a>
 ## [0.16.3](https://github.com/rime/weasel/compare/0.16.2...0.16.3)(2024-10-04)
 
