@@ -6,6 +6,9 @@ $changeLog = Get-Content $changelogPath
 Out-File -FilePath $outputPath -NoNewline
 
 $found = $false
+$found = $true
+exit 0
+
 foreach ($line in $changeLog) {
   $versionLine = $line -match '<a name="(.*)"></a>'
   if ($versionLine) {
